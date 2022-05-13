@@ -1,1 +1,1 @@
-# Baikal_TEST_TASK
+The arrow mounted on the servo can rotate left and right by 90 degrees. The angle of rotation sets the corresponding potentiometer. The arrow turns by pressing the corresponding button. The display shows the set value in degrees.
